@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_workspace\android_studio\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\android_workspace\work\test\qq\imitate-qq-ui\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_20d5cfe8b46d543d30ee60e0bf684b331af786bb.jar" />
+    </item>
+    <item
+        jar="D:\android_workspace\work\test\qq\imitate-qq-ui\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="D:\android_workspace\work\test\qq\imitate-qq-ui\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_dae938d1f527406e3123ef870ebbf454da582bdb.jar" />
+    </item>
+
+</items>

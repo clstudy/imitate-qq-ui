@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\android_workspace\\work\\test\\as\\qq\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_right_selector.xml",
+        "source": "D:\\android_workspace\\work\\test\\as\\qq\\app\\src\\main\\res\\drawable\\btn_right_selector.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_bubble_pop.xml",
+        "source": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\src\\main\\res\\drawable\\anim_bubble_pop.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_right_selector.xml",
+        "source": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\src\\main\\res\\drawable\\btn_right_selector.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\as\\qq\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_bubble_pop.xml",
+        "source": "D:\\android_workspace\\work\\test\\as\\qq\\app\\src\\main\\res\\drawable\\anim_bubble_pop.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_right_selector.xml",
+        "source": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\src\\main\\res\\drawable\\btn_right_selector.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anim_bubble_pop.xml",
+        "source": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\src\\main\\res\\drawable\\anim_bubble_pop.xml"
+    }
+]

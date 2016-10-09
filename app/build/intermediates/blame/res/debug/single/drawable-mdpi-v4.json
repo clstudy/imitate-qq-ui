@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\as\\qq\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_workspace\\work\\test\\as\\qq\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

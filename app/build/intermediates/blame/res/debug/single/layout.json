@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\as\\qq\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android_workspace\\work\\test\\as\\qq\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_swipe.xml",
+        "source": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\src\\main\\res\\layout\\list_item_swipe.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_layout_right.xml",
+        "source": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\src\\main\\res\\layout\\activity_layout_right.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_swipe.xml",
+        "source": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\src\\main\\res\\layout\\list_item_swipe.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\as\\qq\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_layout_right.xml",
+        "source": "D:\\android_workspace\\work\\test\\as\\qq\\app\\src\\main\\res\\layout\\activity_layout_right.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\as\\qq\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_swipe.xml",
+        "source": "D:\\android_workspace\\work\\test\\as\\qq\\app\\src\\main\\res\\layout\\list_item_swipe.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_layout_right.xml",
+        "source": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\src\\main\\res\\layout\\activity_layout_right.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\as\\qq\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "D:\\android_workspace\\work\\test\\as\\qq\\app\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "D:\\android_workspace\\work\\test\\gitbub\\imitate-qq-ui-master\\app\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "D:\\android_workspace\\work\\test\\qq\\imitate-qq-ui\\app\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "D:\\android_workspace\\work\\test\\as\\qq\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "D:\\android_workspace\\work\\test\\as\\qq\\app\\src\\main\\res\\anim\\shake.xml"
+    }
+]
